@@ -1,6 +1,14 @@
 vim.cpp - additional vim c++ syntax highlighting
 ------------------------------------------------
 
+---
+Ray: 
+This is a great vim plugin!
+I added some more syntax highlights for coding competition, such as
+all, pb, bg, ii, vi, vii, vvi.
+---
+
+
 This file contains additional syntax highlighting that I use for C++11/14/17
 development in Vim. Compared to the standard syntax highlighting for C++ it
 adds highlighting of (user defined) functions and the containers and types in
