@@ -118,6 +118,17 @@ syn cluster cppSTLgroup     contains=cppSTLfunction,cppSTLfunctional,cppSTLconst
 "   http://www.vim.org/scripts/script.php?script_id=1640
 " -----------------------------------------------------------------------------
 
+" ------ Ray's customized keyword ------
+syntax keyword cppSTLconstant all
+syntax keyword cppSTLconstant pb
+syntax keyword cppSTLconstant bg
+syntax keyword cppSTLconstant ii
+syntax keyword cppSTLconstant vi 
+syntax keyword cppSTLconstant vii 
+syntax keyword cppSTLconstant vvi
+
+" --------------------------------------
+
 syntax keyword cppSTLconstant badbit
 syntax keyword cppSTLconstant cerr
 syntax keyword cppSTLconstant cin
