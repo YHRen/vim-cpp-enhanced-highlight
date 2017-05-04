@@ -120,12 +120,16 @@ syn cluster cppSTLgroup     contains=cppSTLfunction,cppSTLfunctional,cppSTLconst
 
 " ------ Ray's customized keyword ------
 syntax keyword cppSTLconstant all
+syntax keyword cppSTLconstant forall
 syntax keyword cppSTLconstant pb
+syntax keyword cppSTLconstant mp
 syntax keyword cppSTLconstant bg
+syntax keyword cppSTLconstant in
 syntax keyword cppSTLconstant ii
-syntax keyword cppSTLconstant vi 
-syntax keyword cppSTLconstant vii 
+syntax keyword cppSTLconstant vi
+syntax keyword cppSTLconstant vii
 syntax keyword cppSTLconstant vvi
+syntax keyword cppSTLconstant debug
 
 " --------------------------------------
 
